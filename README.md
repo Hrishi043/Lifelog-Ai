@@ -18,16 +18,16 @@
 
 ## 📥 Installation & Downloads
 
-To run the application, head over to the **[Releases](../../releases)** tab on this repository and download the latest builds for your platform:
+### 📱 Android (Direct Download)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/Hrishi043/Lifelog-Ai/raw/main/lifelog_ai_release.apk)
 
-### 📱 Android
-1.  Download the **`lifelog_ai_release.apk`** file from the latest release.
-2.  Open the file on your Android device.
-3.  If prompted, enable *"Install from Unknown Sources"* in your security settings.
-4.  Launch the app and start logging!
+1. Click the button above to download **`lifelog_ai_release.apk`** directly.
+2. Open the file on your Android device.
+3. If prompted, enable *"Install from Unknown Sources"* in your security settings.
+4. Launch the app and start logging!
 
 ### 💻 Windows Desktop
-1.  Download the **`lifelog_ai_windows.zip`** file from the latest release.
+1.  Download the **`lifelog_ai_windows.zip`** file from the latest release (or build from source).
 2.  Extract the ZIP folder to a local directory (e.g., `C:\Program Files\LifeLog AI`).
 3.  Double-click **`lifelog_ai.exe`** to run the app.
 4.  *(Optional)* Right-click `lifelog_ai.exe` and select *"Pin to Start"* or *"Create Desktop Shortcut"* for quick access.
